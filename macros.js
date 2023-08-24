@@ -1,1 +1,1 @@
-/** @OnlyCurrentDoc */
+/** @NotOnlyCurrentDoc */
